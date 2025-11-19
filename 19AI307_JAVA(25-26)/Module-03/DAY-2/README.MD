@@ -26,8 +26,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: ILAIYADEEPAN K
-RegisterNumber:  212223230080
+Developed by: ESWANTH KUMAR K
+RegisterNumber:  212223040046
 */
 ```
 
@@ -96,6 +96,7 @@ public class TestVehicles {
 
 ## RESULT:
 Therefore the  program successfully demonstrates method overriding by applying different speed increase behaviors for car and bicycle.
+
 
 
 
